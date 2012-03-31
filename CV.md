@@ -17,10 +17,11 @@ Configuration management
 ------------------------
 + Chef
 
-Development management
-----------------------
+Development tools
+-----------------
 + Git
 + Subversion
++ Vagrant
 + Jira
 + Bamboo
 + Hudson / Jenkins
@@ -152,10 +153,10 @@ Personal
 Interests
 ---------
 
-Music – I currently [play drums in a funk band](http://www.baronfunkenhausen.net)
-[Photography](http://org.orgraphone.org/category/photos/)
-[Coding for fun](http://org.orgraphone.org/tag/code/)
-Scrabble
++ Music – I currently [play drums in a funk band](http://www.baronfunkenhausen.net)
++ [Photography](http://org.orgraphone.org/category/photos/)
++ [Coding for fun](http://org.orgraphone.org/tag/code/)
++ Scrabble
 
 Contact details
 ---------------
@@ -163,4 +164,5 @@ Contact details
 + email: [s@m.pikesley.org](mailto:s@m.pikesley.org)
 + twitter: [@pikesley](http://twitter.com/pikesley)
 + [linkedin](http://www.linkedin.com/profile/view?id=8480640)
++ [github](https://github.com/pikesley/)
 + telephone: +44 (0) 7979 774183
