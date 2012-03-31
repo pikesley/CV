@@ -163,6 +163,6 @@ Contact details
 
 + email: [s@m.pikesley.org](mailto:s@m.pikesley.org)
 + twitter: [@pikesley](http://twitter.com/pikesley)
-+ [linkedin](http://www.linkedin.com/profile/view?id=8480640)
++ [linkedin](http://uk.linkedin.com/in/sampikesley)
 + [github](https://github.com/pikesley/)
 + telephone: +44 (0) 7979 774183
