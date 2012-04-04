@@ -147,7 +147,6 @@ Education
 =========
 
 B.Sc. (hons) Physics & Computing, Staffordshire University
-----------------------------------------------------------
 
 Personal
 ========
