@@ -1,3 +1,5 @@
+11 years a SysAdmin, now doing DevOps. Chef is my current weapon of choice.
+
 Skills
 ======
 
