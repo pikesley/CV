@@ -1,4 +1,4 @@
-11 years a SysAdmin, now doing DevOps. Chef is my current weapon of choice.
+11 years a SysAdmin, now doing DevOps. [Chef](http://pikesley.github.com/learn-yourself-some-chef/) is my current weapon of choice.
 
 Skills
 ======
