@@ -20,7 +20,7 @@ Scripting
 
 Configuration management
 ------------------------
-+ Chef
++ Chef - also cucumber-chef
 
 Development tools
 -----------------
