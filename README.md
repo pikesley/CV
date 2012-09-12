@@ -20,7 +20,7 @@ Scripting
 Configuration management
 ------------------------
 + Chef
-    - contributor to [cucumber-chef](https://github.com/Atalanta/cucumber-chef/pulls/pikesley)
+    - contributor to [cucumber-chef](https://github.com/Atalanta/cucumber-chef)
 
 Development tools
 -----------------
