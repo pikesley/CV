@@ -10,7 +10,6 @@ OS
 --
 + Linux (Ubuntu, Debian)
 + FreeBSD (4, 5, 6, 7)
-+ OpenBSD
 
 Scripting
 ---------
@@ -20,7 +19,8 @@ Scripting
 
 Configuration management
 ------------------------
-+ Chef - also cucumber-chef
++ Chef
+    - contributor to [cucumber-chef](https://github.com/Atalanta/cucumber-chef/pulls/pikesley)
 
 Development tools
 -----------------
@@ -33,7 +33,8 @@ Development tools
 
 WWW
 ---
-+ Apache administration - including mod_rewrite
++ Apache administration
+    - including mod_rewrite
 + nginx
 + thin / unicorn
 + PHP scripting
@@ -60,6 +61,7 @@ Network administration
 Monitoring and measurement
 --------------------------
 + Splunk
++ ServerDensity
 + Nagios
 + Zabbix
 
