@@ -160,7 +160,7 @@ Interests
 ---------
 
 + Music – I currently [play drums in a funk band](http://www.baronfunkenhausen.net)
-+ [Photography](http://org.orgraphone.org/category/photos/)
++ [Photography](http://www.flickr.com/photos/pikesley/)
 + [Coding for fun](http://org.orgraphone.org/tag/code/)
 + Scrabble
 
