@@ -21,6 +21,7 @@ Configuration management
 ------------------------
 + Chef
     - contributor to [cucumber-chef](https://github.com/Atalanta/cucumber-chef)
+    - creator of [catering-college](https://github.com/pikesley/catering-college)
 
 Development tools
 -----------------
