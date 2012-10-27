@@ -6,22 +6,17 @@ Sam Pikesley
 Skills
 ======
 
-OS
---
-+ Linux (Ubuntu, Debian)
-+ FreeBSD (4, 5, 6, 7)
+Configuration management
+------------------------
++ Chef
+    - contributor to [cucumber-chef](https://github.com/Atalanta/cucumber-chef)
+    - creator of [catering-college](https://github.com/pikesley/catering-college)
 
 Scripting
 ---------
 + Ruby
 + Python
 + bash
-
-Configuration management
-------------------------
-+ Chef
-    - contributor to [cucumber-chef](https://github.com/Atalanta/cucumber-chef)
-    - creator of [catering-college](https://github.com/pikesley/catering-college)
 
 Development tools
 -----------------
@@ -34,18 +29,23 @@ Development tools
 
 WWW
 ---
-+ Apache administration
-    - including mod_rewrite
 + nginx
-+ thin / unicorn
++ Apache
+    - including mod_rewrite
++ thin
 + PHP scripting
 + haproxy administration
+
+OS
+--
++ Linux (Ubuntu, Debian)
++ FreeBSD (4, 5, 6, 7)
 
 Amazon AWS
 ----------
 + EC2
 + RDS
-+ CloudFront
++ S3 / CloudFront
 
 Databases
 ---------
@@ -68,6 +68,7 @@ Monitoring and measurement
 
 Backup and recovery
 -------------------
++ Duplicity
 + Amanda
 
 Profile
