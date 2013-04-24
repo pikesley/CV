@@ -23,7 +23,7 @@ Development tools
 + Git
 + Subversion
 + Vagrant
-+ Jira
++ RVM
 + Bamboo
 + Hudson / Jenkins
 
@@ -149,11 +149,6 @@ Having joined Empower at its inception, my initial responsibilities were to desi
 I was solely responsible for supporting this infrastructure for the first year, until the business expanded to the extent that further IT staff were required. I was asked to set up an IT department, and recruited another Sysadmin who specialised in Windows; the team continued to expand over the following years. I gained experience with Solaris 8, HP-UX and qualified as an Oracle administrator in order to install some of Empower’s products onto carrier-grade hardware; I also assisted with deploying the hardware into telcos.
 
 Empower unfortunately ceased trading in November 2006.
-
-Education
-=========
-
-B.Sc. (hons) Physics & Computing, Staffordshire University
 
 Personal
 ========
