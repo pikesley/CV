@@ -1,7 +1,7 @@
 Sam Pikesley
 ============
 
-11 years a SysAdmin, now doing [DevOps](http://whatisdevops.com/). [Chef](http://www.opscode.com/chef/) is my current weapon of choice.
+13 years a SysAdmin, now doing [DevOps](http://whatisdevops.com/). [Chef](http://www.opscode.com/chef/) is my current weapon of choice.
 
 Skills
 ======
@@ -162,7 +162,7 @@ Personal
 Interests
 ---------
 
-+ Music – I currently [play drums in a funk band](http://www.baronfunkenhausen.net)
++ Music – I currently play drums in a funk band
 + [Photography](http://www.flickr.com/photos/pikesley/)
 + [Coding for fun](http://org.orgraphone.org/tag/code/)
 + Scrabble
