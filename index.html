@@ -1,0 +1,226 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Sam Pikesley by pikesley</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Sam Pikesley</h1>
+        <p>My CV</p>
+
+        <p class="view"><a href="https://github.com/pikesley/CV">View the Project on GitHub <small>pikesley/CV</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/pikesley/CV/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/pikesley/CV/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/pikesley/CV">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>Sam Pikesley</h1>
+
+<p>11 years a SysAdmin, now doing <a href="http://whatisdevops.com/">DevOps</a>. <a href="http://www.opscode.com/chef/">Chef</a> is my current weapon of choice.</p>
+
+<h1>Skills</h1>
+
+<h2>Configuration management</h2>
+
+<ul>
+<li>Chef
+
+<ul>
+<li>contributor to <a href="https://github.com/Atalanta/cucumber-chef">cucumber-chef</a>
+</li>
+<li>creator of <a href="https://github.com/pikesley/catering-college">catering-college</a>
+</li>
+</ul>
+</li>
+</ul><h2>Scripting</h2>
+
+<ul>
+<li>Ruby</li>
+<li>Python</li>
+<li>bash</li>
+</ul><h2>Development tools</h2>
+
+<ul>
+<li>Git</li>
+<li>Subversion</li>
+<li>Vagrant</li>
+<li>RVM</li>
+<li>Bamboo</li>
+<li>Hudson / Jenkins</li>
+</ul><h2>WWW</h2>
+
+<ul>
+<li>nginx</li>
+<li>Apache
+
+<ul>
+<li>including mod_rewrite</li>
+</ul>
+</li>
+<li>thin</li>
+<li>PHP scripting</li>
+<li>haproxy administration</li>
+</ul><h2>OS</h2>
+
+<ul>
+<li>Linux (Ubuntu, Debian)</li>
+<li>FreeBSD (4, 5, 6, 7)</li>
+</ul><h2>Amazon AWS</h2>
+
+<ul>
+<li>EC2</li>
+<li>RDS</li>
+<li>S3 / CloudFront</li>
+</ul><h2>Databases</h2>
+
+<ul>
+<li>MySQL (including MMM)</li>
+<li>Cassandra</li>
+<li>MongoDB</li>
+</ul><h2>Network administration</h2>
+
+<ul>
+<li>Network topology planning</li>
+<li>DNS (BIND 8, 9)</li>
+<li>Samba</li>
+</ul><h2>Monitoring and measurement</h2>
+
+<ul>
+<li>Splunk</li>
+<li>ServerDensity</li>
+<li>Nagios</li>
+<li>Zabbix</li>
+</ul><h2>Backup and recovery</h2>
+
+<ul>
+<li>Duplicity</li>
+<li>Amanda</li>
+</ul><h1>Profile</h1>
+
+<h2>June 2011 - present: DevOps Engineer for <a href="http://www.amee.com">AMEE UK Ltd</a>, London</h2>
+
+<p>AMEE is a start-up whose mission is to measure the carbon footprint of everything on the planet.</p>
+
+<p>Working closely with AMEE's relatively small team of Java and Ruby devs, I've been responsible for:</p>
+
+<ul>
+<li>Putting in a huge amount of Chef plumbing (running off of <a href="http://www.amee.com/blog/2012/02/22/building-a-chef-server-from-scratch/">our own Chef server</a>) - AMEE's config management previously consisted of a handful of bash scripts. Any new stuff rolled out since late 2011 has been configuration-managed by Chef, and I expect to have all existing infrastructure in the hands of Chef before the end of 2012</li>
+<li>Deploying and configuring Splunk</li>
+<li>Migrating several of AMEE's legacy apps from leased iron in a DC to AWS</li>
+</ul><p>alongside the usual SysAdmin work of backup-and-restore, capacity planning, etc.</p>
+
+<h2>August 2009 – June 2011: Systems Administrator for <a href="http://www.visualdna.com">Imagini Ltd</a>, London</h2>
+
+<p>Imagini is a dynamic startup based in Soho. The company generates profiles for users through the use of visual quizzes, working with clients including the LA Times, match.com and the Daily Mirror.</p>
+
+<p>My role at Imagini was pretty much DevOps before I knew that DevOps was even a thing – as a busy startup with diverse client projects there were often multiple deploys per day, meaning I had to work very closely with the developers to make sure we were all on the same page.</p>
+
+<p>This close working relationship was particularly fruitful during the gradual transfer of many of Imagini’s core services from the legacy platform (a couple of racks of Linux boxes in a London datacentre) to Amazon Web Services. The back-and-forth between myself and the development team was invaluable as we iterated through various combinations of EC2 Instance Types to find the setup that best fitted our requirements.</p>
+
+<p>The transfer to AWS accelerated rapidly during 2011; the setup I left them with included:</p>
+
+<ul>
+<li>A 16-node Cassandra cluster</li>
+<li>A 6-node Hadoop cluster</li>
+<li>Several groups of Elastic-Load-Balanced web servers</li>
+</ul><p>This platform is still in production use, including an all-new Quiz Engine which as far as I know is still performing extremely well.</p>
+
+<p>During my time at Imagini I also:</p>
+
+<ul>
+<li>Completely rewrote the legacy deployment system (in Python), and subsequently repurposed a lot of this code to handle AWS deploy</li>
+<li>Introduced the MMM multi-master replication manager for MySQL on the front-end database servers</li>
+<li>Cleaned-up and reorganised the Subversion repositories (the better to integrate with my new deploy system)</li>
+<li>Managed a migration from Akamai EdgeControl to Amazon Cloudfront</li>
+<li>Substantially rewrote the ‘event-tracking and processing’ system</li>
+<li>Managed a migration from hosted Exchange email to Google Mail</li>
+</ul><h2>August 2003 – August 2009: Systems Administrator for <a href="http://www.rexfeatures.com">Rex Features Ltd</a>, London</h2>
+
+<p>Rex Features is Britain’s leading independent photographic press agency and picture library. Rex supplies a daily service of news, celebrity, features, and stock photos to all national newspapers, magazines, TV, web and other media in the UK and in more than 30 countries worldwide.</p>
+
+<p>My work at Rex covered the usual gamut of Sysadmin tasks, including: backup and recovery, webserver administration, DNS management, plenty of scripting (mostly in bash), patching servers, and writing and maintaining documentation. There was also some SQL Server admin, and a certain amount of desktop support – Rex is a company of ~80 employees, supported by an IT department of four. All new server hardware passed through my hands for installation and configuration.</p>
+
+<p>When I joined Rex, the IT department consisted of two very busy people. The IT infrastructure had been growing rapidly, deployment had happened on a seemingly ad-hoc basis, and documentation was fairly sparse. My initial tasks included:</p>
+
+<ul>
+<li>Installing a CVS server (yes, this was 2003) and gathering code and scripts into it</li>
+<li>Rolling out the Amanda backup system and setting up a proper backup and recovery scheme</li>
+<li>Getting the RT ticketing system up and running (we later moved to Jira)</li>
+<li>Beginning the process of documenting everything in Twiki (we subsequently migrated to Mediawiki)</li>
+</ul><p>Subsequently, I was directly involved in:</p>
+
+<ul>
+<li>Setting up the Nagios network monitoring system</li>
+<li>Migrating the internal mail from Novell to Exchange, and later outsourcing this function to Cobweb’s hosted Exchange platform</li>
+<li>Configuring VPNs between Rex’s headquarters and various locations – initially using isakmpd on OpenBSD, and latterly on a Watchguard Firebox</li>
+<li>Overseeing the transfer of Rex’s image data – 5 terabytes of jpegs at the time of writing – from a cluster based on a number of FreeBSD servers to a set of Network Appliance 3050 filers</li>
+<li>Configuring and deploying Alteon load-balancers for the Rex website, which gets ~1.5 million hits and shifts ~13 gigs of data a day</li>
+<li>Migrating Rex’s code from CVS to Subversion</li>
+<li>Specifying and documenting a “standard Rex server install” – except for a handful of Windows servers, the whole of Rex’s server room and colo are running FreeBSD, so the standard install is a set of common ports and a number of scripts.</li>
+</ul><p>Rex went on to acquire another picture agency in Los Angeles, which brought about a project to integrate their image archive into Rex’s, modifying the server software to enable them to use the Rex client application, and deploying a new set of servers to support of all of this. The final setup consisted of a redundant pair of Microsoft SQL servers, a set of NetApp filers and shelves, and a group of FreeBSD servers (running apache and mod_perl) serving up three websites and a range of internal webservices, all sitting behind a pair of Alteon load-balancers.</p>
+
+<h2>April 2000 – July 2003: Systems Administrator for Empower Interactive Ltd, London</h2>
+
+<p>Empower Interactive was a telecoms software startup, founded in 2000 in the City of London. The company grew from an initial team of eight to a team of approximately 60 people based all over the globe.</p>
+
+<p>Having joined Empower at its inception, my initial responsibilities were to design and implement the IT infrastructure necessary to support the operations of the fledgling business. This included: network planning; server acquisition and installation (various internal servers, external mail server, firewall, etc); deploying a backup and recovery scheme; managing the website; and a great deal of user education. I also got involved in many other aspects of the business – this was a tiny start-up, so I found myself doing testing, writing user manuals for Empower’s products, and even doing a little Java.</p>
+
+<p>I was solely responsible for supporting this infrastructure for the first year, until the business expanded to the extent that further IT staff were required. I was asked to set up an IT department, and recruited another Sysadmin who specialised in Windows; the team continued to expand over the following years. I gained experience with Solaris 8, HP-UX and qualified as an Oracle administrator in order to install some of Empower’s products onto carrier-grade hardware; I also assisted with deploying the hardware into telcos.</p>
+
+<p>Empower unfortunately ceased trading in November 2006.</p>
+
+<h1>Personal</h1>
+
+<h2>Interests</h2>
+
+<ul>
+<li>Music – I currently <a href="http://www.baronfunkenhausen.net">play drums in a funk band</a>
+</li>
+<li><a href="http://www.flickr.com/photos/pikesley/">Photography</a></li>
+<li><a href="http://org.orgraphone.org/tag/code/">Coding for fun</a></li>
+<li>Scrabble</li>
+</ul><h2>Contact details</h2>
+
+<ul>
+<li>email: <a href="mailto:s@m.pikesley.org">s@m.pikesley.org</a>
+</li>
+<li>twitter: <a href="http://twitter.com/pikesley">@pikesley</a>
+</li>
+<li><a href="http://uk.linkedin.com/in/sampikesley">linkedin</a></li>
+<li><a href="https://github.com/pikesley/">github</a></li>
+<li>telephone: +44 (0) 7979 774183</li>
+</ul>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/pikesley">pikesley</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-20895204-10");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
