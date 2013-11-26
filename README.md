@@ -174,4 +174,4 @@ Contact details
 + twitter: [@pikesley](http://twitter.com/pikesley)
 + [linkedin](http://uk.linkedin.com/in/sampikesley)
 + [github](https://github.com/pikesley/)
-+ telephone: +44 (0) 7979 774183
++ telephone: `'+%d' % [ '684dace0e7'.to_i(16) ]`
