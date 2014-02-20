@@ -1,7 +1,7 @@
 Sam Pikesley
 ============
 
-13 years a SysAdmin, now doing [DevOps](http://whatisdevops.com/). [Chef](http://www.opscode.com/chef/) is my current weapon of choice.
+13 years a SysAdmin, now Head Of Robots. [Chef](http://www.opscode.com/chef/) is my current weapon of choice.
 
 Skills
 ======
@@ -15,7 +15,6 @@ Configuration management
 Scripting
 ---------
 + Ruby
-+ Python
 + bash
 
 Development tools
@@ -25,7 +24,7 @@ Development tools
 + Vagrant
 + RVM
 + Bamboo
-+ Hudson / Jenkins
++ Hudson / Jenkins / Travis
 
 WWW
 ---
