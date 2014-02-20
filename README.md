@@ -1,7 +1,7 @@
 Sam Pikesley
 ============
 
-13 years a SysAdmin, now Head Of Robots. [Chef](http://www.opscode.com/chef/) is my current weapon of choice.
+13 years a SysAdmin, now Head Of Robots. If I can't do it with Ruby, it probably isn't worth doing.
 
 Skills
 ======
@@ -77,7 +77,7 @@ Profile
 January 2013 - present: Head Of Robots at the [Open Data Institute](http://theodi.org), London
 ----------------------------------------------------------------------------------------------
 
-Automating everything I can get my hands on.
+Automating the shit out of everything I can get my hands on.
 
 June 2011 - January 2013: DevOps Engineer for [AMEE UK Ltd](http://www.amee.com), London
 -----------------------------------------------------------------------------------
@@ -161,9 +161,9 @@ Personal
 Interests
 ---------
 
-+ Music – I currently play drums in a funk band
++ [Music](https://soundcloud.com/rawfunkmaharishi)
++ [Coding](https://github.com/pikesley?tab=repositories)
 + [Photography](http://www.flickr.com/photos/pikesley/)
-+ [Coding for fun](http://org.orgraphone.org/tag/code/)
 + Scrabble
 
 Contact details
