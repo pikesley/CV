@@ -162,9 +162,8 @@ Interests
 ---------
 
 + [Music](https://soundcloud.com/rawfunkmaharishi)
-+ [Coding](https://github.com/pikesley?tab=repositories)
 + [Photography](http://www.flickr.com/photos/pikesley/)
-+ Scrabble
++ [Gardening](https://www.flickr.com/photos/pikesley/sets/72157644197110144/)
 
 Contact details
 ---------------
