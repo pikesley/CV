@@ -1,7 +1,7 @@
 Sam Pikesley
 ============
 
-13 years a SysAdmin, now Head Of Robots. If I can't do it with Ruby, it probably isn't worth doing.
+14 years a SysAdmin, now Head Of Robots. If I can't do it with Ruby, it probably isn't worth doing. If you can extract my phone number from the details below, then maybe I'll speak to you.
 
 Skills
 ======
